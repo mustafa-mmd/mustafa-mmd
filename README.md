@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @mustafa-mmd
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning  react
+Crafting fast, responsive, and stunning web experiences with HTML, CSS, Tailwind CSS, and JAVASCRIPT , REACT REDUX TOLKIT. Passionate about clean code, smooth UI/UX, and modern web trends.
 - 📫 How to reach me ...
+- my portfolio website ..https://mustafa-mmd.github.io/mustafa_jamal_portfolio/
   Gmail:   mustafajamalshabqadar@gmail.com
-  phone:   03479749239
+  phone/whatsapp:   03479749239
   linkdin: www.linkedin.com/in/mustafa-jamal-60080228b
 
 <!---
