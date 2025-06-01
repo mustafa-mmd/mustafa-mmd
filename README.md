@@ -1,6 +1,6 @@
 👋 Hi, I'm Mustafa Jamal!
- Frontend Developer 
-Crafting fast, responsive, and stunning web experiences with HTML, CSS, Tailwind CSS, and JAVASCRIPT , REACT REDUX TOLKIT. Passionate about clean code, smooth UI/UX, and modern web trends.
+ MERN stack Developer 
+Crafting fast, responsive, and stunning web experiences with HTML, CSS, Tailwind CSS,Bootstrap and JAVASCRIPT , REACT REDUX TOLKIT and Backend tecnologies node js , express js , mongoDB. Passionate about clean code, smooth UI/UX, and modern web trends.
 - 📫 How to reach me ...
 - my portfolio website ..https://mustafa-mmd.github.io/mustafa_jamal_portfolio/
   Gmail:   mustafajamalshabqadar@gmail.com
