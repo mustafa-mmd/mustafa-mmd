@@ -1,6 +1,14 @@
-👋 Hi, I'm Mustafa Jamal!
- MERN stack Developer 
-Crafting fast, responsive, and stunning web experiences with HTML, CSS, Tailwind CSS,Bootstrap and JAVASCRIPT , REACT REDUX TOLKIT and Backend tecnologies node js , express js , mongoDB. Passionate about clean code, smooth UI/UX, and modern web trends.
+# Hi, I'm Mustafa Jamal 👋  
+## Full stack | MERN Stack Developer | React.js | Node.js | MongoDB
+
+🔭 I’m currently working on real-world full stack applications  
+🌱 Learning: Next.js, Docker, Production-level deployment  
+💼 Available for freelance & remote and onsite opportunities  
+
+## 🔧 Technologies & Tools
+- React JS, Node.js, MongoDB, Express
+- Redux Toolkit, Tailwind CSS, TypeScript
+- Git, GitHub, Postman, Vercel, Render
 - 📫 How to reach me ...
 - my portfolio website ..https://mustafa-mmd.github.io/mustafa_jamal_portfolio/
   Gmail:   mustafajamalshabqadar@gmail.com
