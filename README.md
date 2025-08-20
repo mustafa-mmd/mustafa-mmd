@@ -6,7 +6,7 @@
 💼 Available for freelance & remote and onsite opportunities  
 
 ## 🔧 Technologies & Tools
-- Html, css, javascript, tailwind css , bootsrap
+- Html, css, javascript, tailwind css , bootstrap
 - React JS, Node.js, MongoDB, Express
 - Redux Toolkit,  TypeScript
 - Git, GitHub, Postman, Vercel, Render
