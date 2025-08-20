@@ -6,8 +6,9 @@
 💼 Available for freelance & remote and onsite opportunities  
 
 ## 🔧 Technologies & Tools
+- Html, css, javascript, tailwind css , bootsrap
 - React JS, Node.js, MongoDB, Express
-- Redux Toolkit, Tailwind CSS, TypeScript
+- Redux Toolkit,  TypeScript
 - Git, GitHub, Postman, Vercel, Render
 - 📫 How to reach me ...
 - my portfolio website ..https://mustafa-mmd.github.io/mustafa_jamal_portfolio/
