@@ -11,7 +11,7 @@
 - Redux Toolkit,  TypeScript
 - Git, GitHub, Postman, Vercel, Render
 - 📫 How to reach me ...
-- my portfolio website ..https://mustafa-mmd.github.io/mustafa_jamal_portfolio/
+- my portfolio website ..https://mustafa-new-portfolio-website.vercel.app/
   Gmail:   mustafajamalshabqadar@gmail.com
   phone/whatsapp:   03479749239
   linkdin: www.linkedin.com/in/mustafa-jamal-60080228b
